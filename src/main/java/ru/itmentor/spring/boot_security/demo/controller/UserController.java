@@ -9,7 +9,7 @@ import ru.itmentor.spring.boot_security.demo.model.User;
 import ru.itmentor.spring.boot_security.demo.service.UserService;
 
 import java.security.Principal;
-
+//
 @Controller
 @RequestMapping("/user")
 public class UserController {

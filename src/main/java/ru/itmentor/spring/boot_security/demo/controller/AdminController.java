@@ -9,7 +9,7 @@ import ru.itmentor.spring.boot_security.demo.service.RoleService;
 import ru.itmentor.spring.boot_security.demo.service.UserService;
 
 import java.util.List;
-
+//
 @Controller
 @RequestMapping("/admin")
 public class AdminController {

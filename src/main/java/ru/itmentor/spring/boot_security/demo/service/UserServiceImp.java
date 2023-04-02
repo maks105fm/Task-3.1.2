@@ -16,7 +16,7 @@ import ru.itmentor.spring.boot_security.demo.model.User;
 import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
-
+//
 @Service
 public class UserServiceImp implements UserService, UserDetailsService {
 

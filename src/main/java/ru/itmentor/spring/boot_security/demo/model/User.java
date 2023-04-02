@@ -1,5 +1,5 @@
 package ru.itmentor.spring.boot_security.demo.model;
-
+//
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.security.core.GrantedAuthority;
